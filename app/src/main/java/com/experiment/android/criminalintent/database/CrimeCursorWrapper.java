@@ -1,4 +1,4 @@
-package database;
+package com.experiment.android.criminalintent.database;
 
 import android.database.Cursor;
 import android.database.CursorWrapper;

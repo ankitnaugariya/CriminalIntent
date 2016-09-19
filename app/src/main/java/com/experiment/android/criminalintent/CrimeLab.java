@@ -11,9 +11,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import database.CrimeBaseHelper;
-import database.CrimeCursorWrapper;
-import database.CrimeDbSchema;
+import com.experiment.android.criminalintent.database.CrimeBaseHelper;
+import com.experiment.android.criminalintent.database.CrimeCursorWrapper;
+import com.experiment.android.criminalintent.database.CrimeDbSchema;
 
 /**
  * Created by anaugari on 9/14/16.

@@ -1,4 +1,4 @@
-package database;
+package com.experiment.android.criminalintent.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

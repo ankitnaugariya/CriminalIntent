@@ -1,4 +1,4 @@
-package database;
+package com.experiment.android.criminalintent.database;
 
 /**
  * Created by anaugari on 9/15/16.
